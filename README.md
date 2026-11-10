@@ -5,7 +5,7 @@
 
 <h1 align="center">AK Client</h1>
 <p align="center">A Minecraft Fabric Utility Mod for anarchy servers.</p>
-<p align="center"><small>AK Client is not a mod created for "hacking" or cheating</small></p>
+<p align="center" style="font-size: 12px;">AK Client is not a mod created for "hacking" or cheating</p>
 
 
 <div align="center">
