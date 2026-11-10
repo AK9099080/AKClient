@@ -19,10 +19,6 @@
 
 ## Usage
 
-### Building
-- Clone this repository
-- Run `./gradlew build`
-
 ### Installation
 Follow the [guide](https://AKClient.com/faq/installation) on the wiki.
 
