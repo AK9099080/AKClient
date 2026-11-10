@@ -5,6 +5,7 @@
 
 <h1 align="center">AK Client</h1>
 <p align="center">A Minecraft Fabric Utility Mod for anarchy servers.</p>
+<p align="center">AK Client is not a mod created for "hacking" or cheating..</p>
 
 <div align="center">
     <a href="https://discord.gg/123abc"><img src="https://img.shields.io/discord/(id)?logo=discord" alt="Discord"/></a>
